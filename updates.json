@@ -1,9 +1,9 @@
 {
-  "version": "1.97",
+  "version": "1.98",
   "files": {
     "FusionBotCoreGui.exe": {
-      "url": "https://github.com/bnetregs101-pixel/fusionbot-updates/releases/download/v1.97/FusionBotCoreGui.exe",
-      "sha256": "944e9621df7aa2331ecd2656bb3cb02bcd274cc04dd2cc92637027381eb27d6e"
+      "url": "https://github.com/bnetregs101-pixel/fusionbot-updates/releases/download/v1.98/FusionBotCoreGui.exe",
+      "sha256": "209d3d9bf3fcccd80e0a0469a3c5da80052f3bb5ce5bb864466d6015bd728e20"
     }
   }
 }
